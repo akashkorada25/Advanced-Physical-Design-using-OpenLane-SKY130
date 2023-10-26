@@ -694,4 +694,4 @@ The last stage will be to extract the GDS file ready for fabrication, simply run
  
  
 ## Inquiries  
-Connect with me at my linkedin: https://www.linkedin.com/in/haritha-gopisetty/
+Connect with me at my linkedin: https://www.linkedin.com/in/akash-kiran-korada/
